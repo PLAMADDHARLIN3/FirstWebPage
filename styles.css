@@ -13,6 +13,7 @@
 #green{
     color:green;
 }
+
 table, th, td {
     border: 1px solid black;
 }
@@ -24,4 +25,20 @@ table.center {
 
 li:nth-child(even){
     background-color:lightblue;
+}
+
+ol{
+    background-color: green;
+}
+
+.item1{
+    background-color: aquamarine;
+}
+
+ul{
+    background-color: red;
+}
+
+.item2{
+    background-color: bisque;
 }
